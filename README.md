@@ -1,20 +1,20 @@
-# Demo
-This is my first demo
+# My Repo for latest projects at INSAID
 
-- point1
-- point 2
-___
+## Here is the list of all projects
 
-```
+- [Finance](https://github.com/v-rao/demo/tree/master/finance-project "Finance")
+- Accounts
+- Banking
+- Energy
 
-print (hello)
+| Finance project | [![Fin](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Fin")](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Fin")  |
+| :------------: | :------------: |
+| [![Accounts](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Banking")](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Banking")  | Accounts  project |
+| Banking  project | [![Banking](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Banking")](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Banking")  |
+| [![Energy](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Energy")](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Energy")  | Energy  project |
 
-```
 
-let's see what happens ??
 
-___
-- hi
-- what
-- is this
-'''
+```python
+for i in range(0,100,3):
+	pr
