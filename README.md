@@ -5,8 +5,6 @@ This is my first demo
 - point 2
 ___
 
-'''
-
 ```
 
 print (hello)
